@@ -1,3 +1,3 @@
 # kooolog
 
-[](/image/img1.jpg)
+[](/image/1.jpg)
