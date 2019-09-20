@@ -1,3 +1,4 @@
 # kooolog
 
-[](/image/1.jpg)
+これは画像
+![](/image/pizza.jpg)
